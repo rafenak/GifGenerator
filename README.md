@@ -33,10 +33,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 Used GIPHY API
+
 Please a create account and get api key
+
 https://developers.giphy.com/
 
 
 create .env file project 
+
 Add
+
 REACT_APP_API_KEY='<Your api Key>';
